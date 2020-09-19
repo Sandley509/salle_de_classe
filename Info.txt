@@ -1,0 +1,6 @@
+creation de variable de session 
+reaassignation des variable de session
+nom dashboard 
+bug fix on navigation bar loader don't want to stop it's like there is an infinite loop
+certificat adding 
+enroll section creation 
